@@ -11,11 +11,7 @@ export default function Page() {
         where I design and build flexible APIs and backend services that improve data accessibility, streamline complex
         processes, and empower developers across diverse projects. Outside of work, I’m often experimenting with pour-over
         coffee, meticulously weighing beans and fine-tuning each cup. I also enjoy writing and organizing thoughts in my
-        Leuchtturm1917 notebook with a Hongdian fountain pen. A huge science fiction and fantasy fan, I love getting lost in worlds like 
-        <em>The Lord of the Rings</em>, 
-        <em>The Cosmere</em>, 
-        <em>The Expanse</em>, and the 
-        <em>Halo</em> novel series.
+        Leuchtturm1917 notebook with a Hongdian fountain pen. A huge science fiction and fantasy fan, I love getting lost in worlds like <em>The Lord of the Rings</em>, <em>The Cosmere</em>, <em>The Expanse</em>, and the <em>Halo</em> novel series.
       </p>
       <div className="my-8">
         <BlogPosts />
